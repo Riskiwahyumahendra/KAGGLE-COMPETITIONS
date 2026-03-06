@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # Connect X
 ### Connect your checkers in a row before your opponent!
 
@@ -231,3 +232,12 @@ Discussion, experimentation, and alternative approaches are always welcome.
 ### Amey Thakur
 
 [Kaggle](https://www.kaggle.com/ameythakur20) • [GitHub](https://github.com/Amey-Thakur)
+
+---
+
+<div align="center">
+
+  [↑ Back to Top](#readme-top) &nbsp;·&nbsp; [← Back to Home](../README.md)
+
+</div>
+
