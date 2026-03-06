@@ -49,7 +49,7 @@
 
 <div align="center">
 
-  [Author](#author) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Competitions](#competitions-index) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Author](#author) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Competitions](#competitions-index) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -102,6 +102,25 @@ The index below categorizes active projects by their competitive domain and foun
 | 2 | **Titanic** | <ul><li>Classification</li><li>Forensic Analysis</li></ul> | <ul><li>Deterministic Record Linkage</li><li>Normalization</li><li>Data Alignment</li></ul> | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
 | 3 | **Predict Customer Churn** | <ul><li>Binary Classification</li><li>Tabular Data</li></ul> | <ul><li>XGBoost</li><li>CatBoost</li><li>LightGBM</li><li>Optuna</li></ul> | [Analysis](./Predict%20Customer%20Churn/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/predict-customer-churn-xgb-catboost-lgbm-optuna) |
 
+
+---
+
+<!-- CERTIFICATIONS -->
+<a name="certifications"></a>
+## Course Certifications
+
+A curated collection of 17 professional certifications awarded by Kaggle, covering the full spectrum of data science and machine learning.
+
+> [!NOTE]
+> **[View All 17 Certifications](./Kaggle%20Courses/README.md)**
+
+| Master Category | Key Skills |
+| :--- | :--- |
+| **Foundation** | Python, Intro to Programming, Intro to SQL, Advanced SQL |
+| **Machine Learning** | Intro to ML, Intermediate ML, Feature Engineering, ML Explainability |
+| **Specialization** | Deep Learning, Computer Vision, Time Series, Geospatial Analysis |
+| **Advanced** | Game AI & RL, AI Ethics, Data Cleaning, Pandas, Data Visualization |
+
 ---
 
 <!-- STRUCTURE -->
@@ -109,7 +128,9 @@ The index below categorizes active projects by their competitive domain and foun
 ## Project Structure
 
 ```python
-KAGGLE-COMPETITIONS/
+├── Kaggle Courses/                            # Professional Certifications (17)
+│   ├── 01_Intro_to_Programming.png                 # Verified Certification
+│   └── README.md                                   # Certification Portfolio
 │
 ├── Connect X/                                      # Simulation: Connect Four Variant
 │   ├── connectx.zip                                # Competition Dataset
@@ -125,6 +146,8 @@ KAGGLE-COMPETITIONS/
 │   ├── playground-series-s6e3.zip                  # Competition Dataset
 │   └── README.md                                   # Technical Analysis
 │
+├── Badges/                                         # Earned Kaggle Badges (25)
+├── docs/                                           # Project Assets
 ├── LICENSE                                         # CC BY 4.0 (Documentation)
 ├── LICENSE-MIT                                     # MIT License (Source Code)
 ├── SECURITY.md                                     # Security Policy & Dual-Licensing
