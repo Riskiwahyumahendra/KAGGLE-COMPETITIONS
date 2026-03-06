@@ -113,7 +113,10 @@ The documentation and structured approach may provide insights into **Academic P
 <a name="license"></a>
 ## License
 
-This repository and all its creative and technical assets are made available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+This repository and all its creative and technical assets are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 Copyright © 2026 Amey Thakur
 
