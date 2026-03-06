@@ -130,8 +130,10 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 ## Project Structure
 
 ```python
-├── Kaggle Courses/                            # Professional Certifications (17)
-│   ├── 01_Intro_to_Programming.png                 # Verified Certification
+├── Badges/                                         # Earned Kaggle Badges (26)
+│   └── README.md                                   # Badge Portfolio
+│
+├── Kaggle Courses/                                 # Professional Certifications (17)
 │   └── README.md                                   # Certification Portfolio
 │
 ├── Connect X/                                      # Simulation: Connect Four Variant
@@ -148,7 +150,6 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 │   ├── playground-series-s6e3.zip                  # Competition Dataset
 │   └── README.md                                   # Technical Analysis
 │
-├── Badges/                                         # Earned Kaggle Badges (26)
 ├── docs/                                           # Project Assets
 ├── LICENSE                                         # CC BY 4.0 (Documentation)
 ├── LICENSE-MIT                                     # MIT License (Source Code)
