@@ -218,7 +218,9 @@ Special thanks to the **fellow Kagglers** and the global data science community.
 
   <br>
 
-  🏆 **[Kaggle Profile](https://www.kaggle.com/ameythakur20)**
+  <a href="https://www.kaggle.com/ameythakur20/">
+    <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent.svg" width="100" alt="Kaggle Profile">
+  </a>
 
   ---
 
