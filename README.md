@@ -150,7 +150,7 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 │   ├── playground-series-s6e3.zip                  # Competition Dataset
 │   └── README.md                                   # Technical Analysis
 │
-├── docs/                                           # Project Assets
+├── docs/                                           # Kaggle Assets
 ├── LICENSE                                         # CC BY 4.0 (Documentation)
 ├── LICENSE-MIT                                     # MIT License (Source Code)
 ├── SECURITY.md                                     # Security Policy & Dual-Licensing
