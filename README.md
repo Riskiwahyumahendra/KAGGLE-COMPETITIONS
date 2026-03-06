@@ -15,7 +15,7 @@
 
   <br>
 
-  <img src="Badges/Kaggle-Community-Member.svg" width="50" title="Kaggle Community Member">
+  <img src="Badges/Kaggle-Community-Member-2022-09-11.svg" width="50" title="Kaggle Community Member (Sept 11, 2022)">
   <img src="Badges/Python-Coder-2024-09-10.svg" width="50" title="Python Coder (Sept 10, 2024)">
   <img src="Badges/R-Coder-2024-09-10.svg" width="50" title="R Coder (Sept 10, 2024)">
   <img src="Badges/Learner-2024-09-10.svg" width="50" title="Learner (Sept 10, 2024)">
