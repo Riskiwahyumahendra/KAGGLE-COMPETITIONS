@@ -42,6 +42,7 @@
   <img src="Badges/Collector-2026-03-05.svg" width="50" title="Collector (Mar 5, 2026)">
   <img src="Badges/Playground-Competitor-2026-03-05.svg" width="50" title="Playground Competitor (Mar 5, 2026)">
   <img src="Badges/Github-Coder-2026-03-06.svg" width="50" title="Github Coder (Mar 6, 2026)">
+  <img src="Badges/Colab-Coder-2026-03-06.svg" width="50" title="Colab Coder (Mar 6, 2026)">
 
 </div>
 
@@ -147,7 +148,7 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 │   ├── playground-series-s6e3.zip                  # Competition Dataset
 │   └── README.md                                   # Technical Analysis
 │
-├── Badges/                                         # Earned Kaggle Badges (25)
+├── Badges/                                         # Earned Kaggle Badges (26)
 ├── docs/                                           # Project Assets
 ├── LICENSE                                         # CC BY 4.0 (Documentation)
 ├── LICENSE-MIT                                     # MIT License (Source Code)
