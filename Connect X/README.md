@@ -1,3 +1,8 @@
+# Connect X
+### Connect your checkers in a row before your opponent!
+
+---
+
 # Hello fellow Kagglers!
 
 This notebook presents a **ConnectX agent built using the Minimax algorithm with Alpha Beta pruning**. The purpose of this explanation is to clarify the reasoning behind the implementation and to outline how each component contributes to the agent's decision making process.
