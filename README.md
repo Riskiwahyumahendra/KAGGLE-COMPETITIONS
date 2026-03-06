@@ -114,12 +114,13 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 > [!NOTE]
 > **[View All 17 Certifications](./Kaggle%20Courses/README.md)**
 
-| Master Category | Key Skills |
+| Curricular Category | Professional Certification |
 | :--- | :--- |
-| **Foundation** | Python, Intro to Programming, Intro to SQL, Advanced SQL |
-| **Machine Learning** | Intro to ML, Intermediate ML, Feature Engineering, ML Explainability |
-| **Specialization** | Deep Learning, Computer Vision, Time Series, Geospatial Analysis |
-| **Advanced** | Game AI & RL, AI Ethics, Data Cleaning, Pandas, Data Visualization |
+| **Foundation** | <ul><li>[Intro to Programming](./Kaggle%20Courses/01_Intro_to_Programming.png)</li><li>[Python](./Kaggle%20Courses/02_Python.png)</li><li>[Intro to SQL](./Kaggle%20Courses/08_Intro_to_SQL.png)</li><li>[Advanced SQL](./Kaggle%20Courses/09_Advanced_SQL.png)</li></ul> |
+| **Machine Learning** | <ul><li>[Intro to ML](./Kaggle%20Courses/03_Intro_to_Machine_Learning.png)</li><li>[Intermediate ML](./Kaggle%20Courses/05_Intermediate_Machine_Learning.png)</li><li>[Feature Engineering](./Kaggle%20Courses/07_Feature_Engineering.png)</li><li>[ML Explainability](./Kaggle%20Courses/16_Machine_Learning_Explainability.png)</li></ul> |
+| **Applied Analytics** | <ul><li>[Pandas](./Kaggle%20Courses/04_Pandas.png)</li><li>[Data Visualization](./Kaggle%20Courses/06_Data_Visualization.png)</li><li>[Data Cleaning](./Kaggle%20Courses/13_Data_Cleaning.png)</li></ul> |
+| **Specialization** | <ul><li>[Deep Learning](./Kaggle%20Courses/10_Intro_to_Deep_Learning.png)</li><li>[Computer Vision](./Kaggle%20Courses/11_Computer_Vision.png)</li><li>[Time Series](./Kaggle%20Courses/12_Time_Series.png)</li><li>[Geospatial Analysis](./Kaggle%20Courses/15_Geospatial_Analysis.png)</li></ul> |
+| **Advanced Theory** | <ul><li>[Game AI & RL](./Kaggle%20Courses/17_Intro_to_Game_AI_and_Reinforcement_Learning.png)</li><li>[AI Ethics](./Kaggle%20Courses/14_Intro_to_AI_Ethics.png)</li></ul> |
 
 ---
 
