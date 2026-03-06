@@ -68,8 +68,8 @@ The index below categorizes active projects by their competitive domain and foun
 
 | # | Competition Portfolio | Domain | Technical Methodology | Documentation | Environment |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | **Connect X** | Game Theory · Simulation | Minimax · Alpha-Beta Pruning · Heuristics · Move Ordering | [Analysis](./Connect%20X/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) |
-| 2 | **Titanic** | Classification · Forensic Analysis | Deterministic Record Linkage · Normalization · Data Alignment | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
+| 1 | **Connect X** | Game Theory • Simulation | Minimax • Alpha-Beta Pruning • Heuristics • Move Ordering | [Analysis](./Connect%20X/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) |
+| 2 | **Titanic** | Classification • Forensic Analysis | Deterministic Record Linkage • Normalization • Data Alignment | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
 
 ---
 
