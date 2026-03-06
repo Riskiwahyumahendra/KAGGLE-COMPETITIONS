@@ -68,6 +68,7 @@ This repository is organized by competition type and difficulty. Each folder con
 | Competition | Category | Primary Technique | Documents |
 |-------------|----------|-------------------|-----------|
 | **[Connect X](./Connect%20X/)** | Simulation | Minimax with Alpha-Beta Pruning | [Analysis](./Connect%20X/README.md) |
+| **[Titanic](./Titanic%20-%20Machine%20Learning%20from%20Disaster/)** | Getting Started | Deterministic Record Linkage | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) |
 
 ---
 
@@ -78,13 +79,18 @@ This repository is organized by competition type and difficulty. Each folder con
 ```python
 KAGGLE-COMPETITIONS/
 │
-├── Connect X/                       # Simulation: Connect Four Variant
-│   ├── connectx.zip                 # Competition Dataset
-│   ├── README.md                    # Technical Deep-Dive
-│   └── connectx-minimax-agent.ipynb # Verified Notebook Solution
+├── Connect X/                                      # Simulation: Connect Four Variant
+│   ├── connectx.zip                                # Competition Dataset
+│   ├── README.md                                   # Technical Deep-Dive
+│   └── connectx-minimax-alpha-beta-agent.ipynb     # Verified Notebook Solution
 │
-├── LICENSE                          # CC BY 4.0 License
-└── README.md                        # Master Documentation Portal
+├── Titanic - Machine Learning from Disaster/       # Getting Started: Survival Prediction
+│   ├── titanic.zip                                 # Competition Dataset
+│   ├── README.md                                   # Technical Deep-Dive
+│   └── titanic-passenger-survival-prediction.ipynb # Verified Notebook Solution
+│
+├── LICENSE                                         # CC BY 4.0 License
+└── README.md                                       # Master Documentation Portal
 ```
 
 ---
