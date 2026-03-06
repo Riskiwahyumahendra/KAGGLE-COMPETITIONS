@@ -61,15 +61,15 @@ Each project within this ecosystem is governed by strict **design patterns** ens
 ---
 
 <!-- COMPETITIONS INDEX -->
+<a name="competitions-index"></a>
 ## Competitions Index
 
+The index below categorizes active projects by their competitive domain and foundational methodology. Each entry includes a link to a specialized technical deep-dive and a direct entry point to the Kaggle execution environment.
 
-This repository is organized by competition type and difficulty. Each folder contains its own specialized `README.md` with technical deep-dives.
-
-| Competition | Category | Primary Technique | Documents |
-|-------------|----------|-------------------|-----------|
-| **[Connect X](./Connect%20X/)** | Simulation | Minimax with Alpha-Beta Pruning | [Analysis](./Connect%20X/README.md) |
-| **[Titanic](./Titanic%20-%20Machine%20Learning%20from%20Disaster/)** | Getting Started | Deterministic Record Linkage | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) |
+| Competition Portfolio | Domain | Technical Methodology | Technical Analysis | Kaggle Notebook |
+| :--- | :--- | :--- | :---: | :---: |
+| **Connect X** | Simulation | Minimax · Alpha-Beta Pruning · Heuristics | [Deep-Dive](./Connect%20X/) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) |
+| **Titanic** | Supervised | Deterministic Record Linkage · Normalization | [Deep-Dive](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
 
 ---
 
