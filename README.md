@@ -70,6 +70,7 @@ The index below categorizes active projects by their competitive domain and foun
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | **Connect X** | <ul><li>Game Theory</li><li>Simulation</li></ul> | <ul><li>Minimax</li><li>Alpha-Beta Pruning</li><li>Heuristics</li><li>Move Ordering</li></ul> | [Analysis](./Connect%20X/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) |
 | 2 | **Titanic** | <ul><li>Classification</li><li>Forensic Analysis</li></ul> | <ul><li>Deterministic Record Linkage</li><li>Normalization</li><li>Data Alignment</li></ul> | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
+| 3 | **Predict Customer Churn** | <ul><li>Binary Classification</li><li>Tabular Data</li></ul> | <ul><li>XGBoost</li><li>CatBoost</li><li>LightGBM</li><li>Optuna</li></ul> | [Analysis](./Predict%20Customer%20Churn/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/predict-customer-churn-xgb-catboost-lgbm-optuna) |
 
 ---
 
@@ -91,7 +92,8 @@ KAGGLE-COMPETITIONS/
 │   └── titanic-passenger-survival-prediction.ipynb # Verified Notebook Solution
 │
 ├── Predict Customer Churn/                         # Binary Classification: Tabular Data
-│   └── playground-series-s6e3.zip                  # Competition Dataset
+│   ├── playground-series-s6e3.zip                  # Competition Dataset
+│   └── README.md                                   # Technical Analysis
 │
 ├── LICENSE                                         # CC BY 4.0 (Documentation)
 ├── LICENSE-MIT                                     # MIT License (Source Code)
