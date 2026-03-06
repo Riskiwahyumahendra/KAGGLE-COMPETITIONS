@@ -157,4 +157,6 @@ Special thanks to the **fellow Kagglers** and the global data science community.
 
   **Computer Engineering (B.E.) - University of Mumbai**
 
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
 </div>
