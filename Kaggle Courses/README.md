@@ -15,6 +15,8 @@ This directory serves as a scholarly archive for all completed Kaggle Learn cour
 
 ## Certification Portfolio
 
+<div align="center">
+
 | <div align="center">#</div> | Course Name | <div align="center">Certification</div> |
 | :---: | :--- | :---: |
 | 1 | **Intro to Programming** | [View](01_Intro_to_Programming.png) |
@@ -34,6 +36,8 @@ This directory serves as a scholarly archive for all completed Kaggle Learn cour
 | 15 | **Geospatial Analysis** | [View](15_Geospatial_Analysis.png) |
 | 16 | **Machine Learning Explainability** | [View](16_Machine_Learning_Explainability.png) |
 | 17 | **Intro to Game AI and Reinforcement Learning** | [View](17_Intro_to_Game_AI_and_Reinforcement_Learning.png) |
+
+</div>
 
 ---
 
