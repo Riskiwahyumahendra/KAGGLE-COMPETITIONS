@@ -90,6 +90,9 @@ KAGGLE-COMPETITIONS/
 │   ├── README.md                                   # Technical Analysis
 │   └── titanic-passenger-survival-prediction.ipynb # Verified Notebook Solution
 │
+├── Predict Customer Churn/                         # Binary Classification: Tabular Data
+│   └── playground-series-s6e3.zip                  # Competition Dataset
+│
 ├── LICENSE                                         # CC BY 4.0 (Documentation)
 ├── LICENSE-MIT                                     # MIT License (Source Code)
 ├── SECURITY.md                                     # Security Policy & Dual-Licensing
