@@ -218,8 +218,6 @@ Special thanks to the **fellow Kagglers** and the global data science community.
 
   <br>
 
-  🏆  
-  <br>
   <a href="https://www.kaggle.com/ameythakur20/">
     <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent.svg" width="120" alt="Kaggle Profile">
   </a>
