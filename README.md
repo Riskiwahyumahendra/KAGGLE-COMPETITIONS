@@ -99,8 +99,8 @@ The index below categorizes active projects by their competitive domain and foun
 
 | <div align="center">#</div> | <div align="center">Competition Portfolio</div> | <div align="center">Domain</div> | <div align="center">Technical Methodology</div> | <div align="center">Documentation</div> | <div align="center">Environment</div> |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | **Connect X** | <ul><li>Game Theory</li><li>Simulation</li></ul> | <ul><li>Minimax</li><li>Alpha-Beta Pruning</li><li>Heuristics</li><li>Move Ordering</li></ul> | [Analysis](./Connect%20X/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) |
-| 2 | **Titanic** | <ul><li>Classification</li><li>Forensic Analysis</li></ul> | <ul><li>Deterministic Record Linkage</li><li>Normalization</li><li>Data Alignment</li></ul> | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
+| 1 | <img src="Medals/Bronze Medal.png" width="18"> **Connect X** | <ul><li>Game Theory</li><li>Simulation</li></ul> | <ul><li>Minimax</li><li>Alpha-Beta Pruning</li><li>Heuristics</li><li>Move Ordering</li></ul> | [Analysis](./Connect%20X/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) |
+| 2 | <img src="Medals/Bronze Medal.png" width="18"> **Titanic** | <ul><li>Classification</li><li>Forensic Analysis</li></ul> | <ul><li>Deterministic Record Linkage</li><li>Normalization</li><li>Data Alignment</li></ul> | [Analysis](./Titanic%20-%20Machine%20Learning%20from%20Disaster/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/titanic-passenger-survival-prediction) |
 | 3 | **Predict Customer Churn** | <ul><li>Binary Classification</li><li>Tabular Data</li></ul> | <ul><li>XGBoost</li><li>CatBoost</li><li>LightGBM</li><li>Optuna</li></ul> | [Analysis](./Predict%20Customer%20Churn/README.md) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/predict-customer-churn-xgb-catboost-lgbm-optuna) |
 | 4 | **Petals to the Metal** | <ul><li>Computer Vision</li><li>Deep Learning</li></ul> | <ul><li>Tensor Processing Units (TPU)</li><li>Image Classification</li></ul> | [Analysis](./Petals%20to%20the%20Metal%20-%20Flower%20Classification%20on%20TPU/README.md) | Notebook Coming Soon |
 
@@ -133,6 +133,9 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 ```python
 ├── Badges/                                         # Earned Kaggle Badges (26)
 │   └── README.md                                   # Badge Portfolio
+│
+├── Medals/                                         # Competition Medals
+├── Tiers/                                          # Kaggle Community Tiers
 │
 ├── Kaggle Courses/                                 # Professional Certifications (17)
 │   └── README.md                                   # Certification Portfolio
