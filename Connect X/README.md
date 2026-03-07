@@ -2,7 +2,11 @@
 # Connect X
 ### Connect your checkers in a row before your opponent!
 
-<img src="../Medals/Bronze Medal.png" width="35" title="Bronze Medal (Mar 6, 2026)"> [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent)
+<div align="center">
+
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) &nbsp; <img src="../Medals/Bronze Medal.png" width="35" title="Bronze Medal (Mar 6, 2026)">
+
+</div>
 
 ---
 
