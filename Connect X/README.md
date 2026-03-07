@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# Connect X
+# Connect X <img src="../Medals/Bronze Medal.png" width="30" title="Bronze Medal (Mar 6, 2026)">
 ### Connect your checkers in a row before your opponent!
 
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent)
