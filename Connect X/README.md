@@ -4,7 +4,13 @@
 
 <div align="center">
 
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent) &nbsp; <img src="../Medals/Bronze Medal.png" width="35" title="Bronze Medal (Mar 6, 2026)">
+**Medal: Bronze**
+<br>
+<img src="../Medals/Bronze Medal.png" width="50" title="Bronze Medal (Mar 6, 2026)">
+<br>
+<br>
+
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ameythakur20/connectx-minimax-alpha-beta-agent)
 
 </div>
 
