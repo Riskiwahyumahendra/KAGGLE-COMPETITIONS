@@ -149,7 +149,8 @@ A curated collection of 17 professional certifications awarded by Kaggle, coveri
 │   └── titanic-passenger-survival-prediction.ipynb # Verified Notebook Solution
 │
 ├── Predict Customer Churn/                         # Binary Classification: Tabular Data
-│   └── README.md                                   # Technical Analysis
+│   ├── README.md                                   # Technical Analysis
+│   └── predict-customer-churn-xgb-catboost-lgbm-optuna.ipynb # Verified Notebook Solution
 │
 ├── Petals to the Metal - Flower Classification on TPU/ # Computer Vision: Deep Learning
 │   └── README.md                                   # Technical Analysis
